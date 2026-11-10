@@ -1,0 +1,21 @@
+# Oracle / SQL Developer
+*.log
+*.trc
+*.lst
+
+# SQL Developer user files
+.sqldeveloper/
+*.dmp
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+
+# Local environment files (credentials)
+.env
+.env.*
